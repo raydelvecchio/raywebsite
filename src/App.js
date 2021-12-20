@@ -1,3 +1,4 @@
+//deployed via Netlify
 import rotate from './rotation.jpg'
 import './App.css';
 
