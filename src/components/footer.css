@@ -4,12 +4,12 @@
     width: 100%;
     bottom: 0;
     color: white;
+    height: 8%;
 }
 
 .copyrightname{
     font-style: italic;
     position: relative;
-    left: 5%;
 }
 
 .icon{
@@ -18,5 +18,10 @@
     padding: 5px;
     position: relative;
     left: 33%;
-    bottom: -15%
+}
+
+.icons{
+    position: absolute;
+    left: 88%;
+    bottom: 0.5%;
 }
