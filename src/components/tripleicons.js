@@ -5,10 +5,10 @@ import linkedin from './resources/linkedin.png'
 
 const Tripleicons = () => (
     <div className="icons">
-        <a href="https://www.linkedin.com/in/raymond-del-vecchio/" target="_blank">
+        <a href="https://www.linkedin.com/in/raymond-del-vecchio/">
             <img className="icon" src={linkedin}  alt="linkedin"/>
         </a>
-        <a href="https://github.com/raydelvecchio" target="_blank">
+        <a href="https://github.com/raydelvecchio">
             <img className="icon" src={github}  alt="github"/>
         </a>
         <a href="mailto:raymond_del_vecchio@brown.edu">
