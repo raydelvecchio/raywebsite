@@ -1,5 +1,6 @@
-import './footer.css'
+import './style/footer.css'
 import Tripleicons from './tripleicons'
+import Iconsource from "./iconsource";
 
 /** sticky footer */
 const Footer = () => (
@@ -8,6 +9,7 @@ const Footer = () => (
             <p className="copyrightname">&copy; Raymond Del Vecchio 2022</p>
         </footer>
         <Tripleicons/>
+        <Iconsource/>
     </div>
 );
 

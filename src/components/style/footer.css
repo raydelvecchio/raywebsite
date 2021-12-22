@@ -21,7 +21,23 @@
 }
 
 .icons{
-    position: absolute;
+    position: fixed;
     left: 88%;
     bottom: 0.5%;
+}
+
+.iconsource{
+    font-size: xx-small;
+    /*color: #282c34;*/
+    color: #282c34;
+    cursor: pointer;
+    position: absolute;
+    left: 44%;
+    bottom: 0.5%;
+}
+
+.iconlink{
+    color: #282c34;
+    font-style: normal;
+    cursor: pointer;
 }

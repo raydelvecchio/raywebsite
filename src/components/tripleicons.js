@@ -1,4 +1,4 @@
-import './footer.css'
+import './style/footer.css'
 import email from './resources/email.png'
 import github from './resources/github.png'
 import linkedin from './resources/linkedin.png'
