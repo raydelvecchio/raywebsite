@@ -77,3 +77,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 * change title icon
 * Skills section
 * Design landing page
+* add "<a target="_blank" href="https://icons8.com/icon/32675/school-director-male-skin-type-4">School Director Male Skin Type 4</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>"

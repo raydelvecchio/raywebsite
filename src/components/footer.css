@@ -1,0 +1,22 @@
+.footer{
+    background-color: black;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    color: white;
+}
+
+.copyrightname{
+    font-style: italic;
+    position: relative;
+    left: 5%;
+}
+
+.icon{
+    width: 30px;
+    height: 30px;
+    padding: 5px;
+    position: relative;
+    left: 33%;
+    bottom: -15%
+}

@@ -1,6 +1,7 @@
 //deployed via Netlify
 import rotate from './rotation.jpg'
 import './App.css';
+import Footer from './components/footer.js'
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
           Work in progress.
         </p>
       </header>
+      <Footer/>
     </div>
   );
 }
