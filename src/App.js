@@ -1,7 +1,7 @@
 //deployed via Netlify
 import rotate from './rotation.jpg'
 import './App.css';
-import Footer from './components/footer.js'
+// import Footer from './components/footer.js'
 
 function App() {
   return (

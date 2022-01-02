@@ -81,3 +81,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 * fix resizing formatting
 * dark mode toggling
 * about me section
+* credits
+  * https://towardsdatascience.com/creating-synthwave-with-matplotlib-ea7c9be59760
+  * https://gfycat.com/gifs/search/free+twinkling+stars+background
