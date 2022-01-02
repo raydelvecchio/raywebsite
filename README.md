@@ -74,6 +74,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 * about section
 * research tab
 * Skills section
+  * relevant coursework: math/cs classes
+  * languages
+  * tools
 * Design landing page
 * fix resizing formatting
 * dark mode toggling
+* about me section

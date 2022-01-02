@@ -8,11 +8,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={rotate} className="App-logo" alt="logo" />
-        <p>
-          Work in progress.
-        </p>
       </header>
-      <Footer/>
+      {/*<Footer/>*/}
     </div>
   );
 }

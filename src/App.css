@@ -14,14 +14,17 @@
 }
 
 .App-header {
-  background-color: white;
+  background-image: url("transparent_synth.gif"), url("stars.gif");
+  background-position: center, center;
+  background-size: auto, auto;
+  object-fit: contain;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: black;
+  color: white;
 }
 
 .App-link {
