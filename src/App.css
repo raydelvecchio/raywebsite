@@ -17,6 +17,7 @@
   background-image: url("transparent_synth.gif"), url("stars.gif");
   background-position: center, center;
   background-size: auto, auto;
+  background-repeat: no-repeat, repeat;
   object-fit: contain;
   min-height: 100vh;
   display: flex;
