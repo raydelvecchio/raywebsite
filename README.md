@@ -82,5 +82,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 * dark mode toggling
 * about me section
 * credits section
-  * https://towardsdatascience.com/creating-synthwave-with-matplotlib-ea7c9be59760
+  * https://github.com/jamescalam/python_synthwave
   * https://gfycat.com/gifs/search/free+twinkling+stars+background
+  * https://icons8.com/icon/32675/school-director-male-skin-type-4
+* Synthwave Colors: https://www.color-hex.com/color-palette/57266
